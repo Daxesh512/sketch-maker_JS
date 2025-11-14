@@ -1,0 +1,25 @@
+.visited{
+  background-color: black;
+}
+
+body{
+	background-color: grey;
+}
+.container{
+  display: grid;
+
+  height: 600px;
+  width: 800px;
+  margin-left: 20%;
+
+  padding: 2px;
+  border-style: solid;
+  border-width: thin;
+}
+
+#reset{
+	margin-left: 20%;
+	padding: 5px;
+	background-color: red;
+	color: white;
+}
